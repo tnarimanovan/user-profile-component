@@ -46,6 +46,8 @@ Your objective is not only to match the design but also to achieve the highest p
 
 ## 🚀 Getting Started
 
+### 0. Complete Pre-Task Survey
+
 ### 1. Clone the repository
 
 ```bash
@@ -78,6 +80,18 @@ Repository:
 ```bash
 npm run dev
 ```
+
+---
+
+## 📤 Submission & Exporting Results
+
+Once you have completed the implementation and resolved as many accessibility errors as possible:
+
+1. Open the **Mole's Burrow panel** in **VS Code**.
+
+2. Click the **📥 Export & Save Study Report** (.json) button at the bottom of the sidebar to download your session results file (a11y-report-*.json).
+
+3. Complete the Post-task questionnaire and upload your exported JSON file.
 
 ---
 
